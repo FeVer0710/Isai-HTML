@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+}
+
+.logo, video{
+	display: block;
+	margin: auto;
+	margin-top: 40px;
+}
+
+h2{
+	color: #0099ff;
+}
+
+nav{
+	padding-top: 40px;
+	margin: auto;
+	width: 1000px;
+	height: 48px;
+}
+
+.botones{
+	float: left;
+	width: 196px;
+	margin: 0 2px;
+	height: 48px;
+	background: #0099ff;
+	color: white;
+	text-align: center;
+	line-height: 48px;
+
+}
+
+.playas:hover{
+	border-radius: 100%;
+}
+
+a .botones:hover{
+
+	background: #000000;
+}
+
+footer{
+
+	position: relative;
+	margin: 20px auto;
+	width: 1000px;
+	height: 70px;
+	background: #0099ff;
+	text-align: center;
+	line-height: 70px;
+	color: white;
+
+}
